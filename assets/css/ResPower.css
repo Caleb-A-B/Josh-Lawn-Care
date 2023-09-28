@@ -45,3 +45,7 @@ body {
     justify-content: space-between;
 
 }
+
+.main p{
+    font-weight: 600;
+}
